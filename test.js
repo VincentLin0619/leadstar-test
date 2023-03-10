@@ -4,7 +4,7 @@ const show_btn = document.querySelectorAll('.color-section button');
 const bgc_img = document.querySelectorAll('#bgc-img img');
 const switch_img = document.querySelectorAll('.color-section img');
 
-
+console.log('test')
 
 for (let i = 0; i < bgc_img.length; i++) {
     // console.log(bgc_img[i].src);
