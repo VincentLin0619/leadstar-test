@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    gap: 10px;
+}
+.color-section{
+    display: block;
+}
+
+#white-section{
+    display: block;
+}
+#black-section{
+    display: none;
+}
+#white-section  ul{
+    display: flex;
+}
+#black-section  ul{
+    display: flex;
+}
+
+
+#bgc-img ul{
+    display: flex;
+}
+#bgc-img img{
+    width: 100px;
+}
+
+#img-section{
+    background-image: url('./img/v2.jpg');
+    
+    width: 100%;
+}
